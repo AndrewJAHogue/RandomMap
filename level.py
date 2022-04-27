@@ -44,3 +44,7 @@ class Level():
         # Ensure there's an exit
         world_map[world_map.shape[0] -1, world_map.shape[1] - 2:] = 0
         self.make_map = False
+
+
+
+
